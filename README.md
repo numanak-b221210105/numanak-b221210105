@@ -1,5 +1,7 @@
 # Hi, I'm Numan AK 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Numan_AK-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numan-ak-b93555210)
+
 Computer Engineering student at **Sakarya University**, focused on **applied AI engineering and AI security**: putting LLMs into real business workflows, and making sure agents can be trusted when they do.
 
 - 🏭 IT intern at a chemical manufacturer (2026): corporate website, internal tools, ERP/CRM integrations
@@ -24,4 +26,4 @@ Computer Engineering student at **Sakarya University**, focused on **applied AI 
 `Python` `C` `C#` `C++` `FastAPI` `SQL` `Docker` `GitHub Actions` `LLM APIs` `MCP` `Evals` `QGIS`
 
 ### Contact
-- LinkedIn: _add your link_
+💼 [linkedin.com/in/numan-ak-b93555210](https://www.linkedin.com/in/numan-ak-b93555210)
