@@ -12,6 +12,7 @@ Computer Engineering student at **Sakarya University**, focused on **applied AI 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Kâtip**](https://github.com/numanak-b221210105/katip) · [▶ open](https://numanak-b221210105.github.io/katip/) | On-device speech-to-text notebook: live Whisper transcription in the browser (WebGPU/WASM), installable PWA for phone and desktop, works offline, nothing uploaded | TypeScript · Transformers.js · ONNX · PWA |
 | [**Meydan**](https://github.com/numanak-b221210105/meydan) · [▶ play](https://numanak-b221210105.github.io/meydan/) | An arcade of ten classic games, each with a different AI (alpha-beta, expectiminimax, MCTS, A*, genetic algorithm, neuroevolution, probabilistic solver) and a live console that shows how it thinks | TypeScript · Web Workers · Canvas · Vitest |
 | [**Kâşif**](https://github.com/numanak-b221210105/kasif) | Ask your database in Turkish: a semantic-layer rule engine plus optional LLM that turns questions into validated, read-only SQL and shows how it understood them | Python · FastAPI · SQLite · sqlglot · LLM |
 | [**Dayanak**](https://github.com/numanak-b221210105/dayanak) | Turkish-first RAG assistant: sentence-level citations, a hallucination guard that checks every claim against its source, and knowledge-gap analytics | Python · FastAPI · BM25 + vectors · LLM |
@@ -26,7 +27,7 @@ Computer Engineering student at **Sakarya University**, focused on **applied AI 
 - **Prompt Injection Detector**: detecting direct and indirect prompt injection against tool-using agents, in Turkish and English
 
 ### Tech
-`Python` `TypeScript` `C` `C#` `C++` `FastAPI` `SQL` `SQLite` `RAG` `Docker` `GitHub Actions` `LLM APIs` `MCP` `Evals` `Game AI` `QGIS`
+`Python` `TypeScript` `C` `C#` `C++` `FastAPI` `SQL` `SQLite` `RAG` `Docker` `GitHub Actions` `LLM APIs` `MCP` `Evals` `Game AI` `Speech AI` `PWA` `QGIS`
 
 ### Contact
 💼 [linkedin.com/in/numan-ak-b93555210](https://www.linkedin.com/in/numan-ak-b93555210)
