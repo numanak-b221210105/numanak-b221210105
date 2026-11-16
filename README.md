@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Numan_AK-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numan-ak-b93555210)
 
-Computer Engineering student at **Sakarya University**, focused on **applied AI engineering and AI security**: putting LLMs into real business workflows, and making sure agents can be trusted when they do.
+Computer Engineer, focused on **applied AI engineering and AI security**: putting LLMs into real business workflows, and making sure agents can be trusted when they do.
 
 - 🏭 IT intern at a chemical manufacturer (2026): corporate website, internal tools, ERP/CRM integrations
 - 🛍️ Co-founder & e-commerce tech manager
